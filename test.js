@@ -1,6 +1,6 @@
 // test.js
 
-console.log("Hello, World!");
+console.log("Hello, World!xxxxxxxx");
 
 function add(a, b) {
     return a + b;
